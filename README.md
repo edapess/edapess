@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ed
-- 👀 I’m interested in coding, reading, music
+- 👀 I’m interested in coding, reading, music, apes
 - 🌱 I’m currently learning JS, TS, React, Electron, Angular
 - 💞️ I’m looking to collaborate on React/JS/Electron project
 - 📫 You can reach me edmondavetisyanw@gmail.com
