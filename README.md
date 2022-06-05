@@ -1,4 +1,4 @@
-- 👋 Hi,
+# 👋 Hi,
 -  I’m interested in coding, reading, music, apes
 -  currently working as a React Native developer
 -  looking to collaborate on React/JS/Electron/React Native project
