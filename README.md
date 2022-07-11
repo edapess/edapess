@@ -1,3 +1,8 @@
+<img src="https://c.tenor.com/76XxFDBUu48AAAAC/frustrated-mad.gif" width="40" height="40" />
+
+
+
+
 # 👋 Hi,
 -  I’m interested in coding, reading, music, apes
 -  currently working as a React Native developer
