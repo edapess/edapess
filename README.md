@@ -1,9 +1,5 @@
 <kbd><img src="https://c.tenor.com/76XxFDBUu48AAAAC/frustrated-mad.gif" width="352" height="224" /></kbd>
-
-
-
-
-# 👋 Hi,
+#  Hi,
 -  I’m interested in coding, reading, music, apes
 -  currently working as a React Native developer
 -  looking to collaborate on React/JS/Electron/React Native project
@@ -20,17 +16,17 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-**🐱 My GitHub Data** 
+** My GitHub Data** 
 
-> 🏆 121 Contributions in the Year 2022
+>  121 Contributions in the Year 2022
  > 
-> 📦 27.9 kB Used in GitHub's Storage 
+>  27.9 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+>  Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+>  15 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+>  0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -70,7 +66,7 @@ XML                      23 mins             ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  22 hrs 10 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
+💻 Projects: 
 cockPizza                11 hrs 13 mins      ████████████░░░░░░░░░░░░░   50.65% 
 restaurant               5 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58% 
 EStore                   5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.65% 
