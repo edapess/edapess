@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-** My GitHub Data** 
+**My GitHub Data** 
 
 >  121 Contributions in the Year 2022
  > 
