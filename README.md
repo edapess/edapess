@@ -80,3 +80,15 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 27/07/2022 00:38:19 UTC
 <!--END_SECTION:waka-->
+<h1 text-alight="center">Welcome</h1>
+</div>
+<div align="center">
+  <h3>Github stats:</h3>
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edavetisyan&theme=dark" alt="Movsisyan" />
+</div>
+<div align="center">
+  <h3>Waka Stats:</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edape&theme=dark&layout=compact"></img>
+</div>
