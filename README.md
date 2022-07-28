@@ -10,6 +10,17 @@
 edavetisyan/edavetisyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
+<div align="center">
+  <h3>Github stats:</h3>
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edavetisyan&theme=dark" alt="Movsisyan" />
+</div>
+<div align="center">
+  <h3>Waka Stats:</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edape&theme=dark&layout=compact"></img>
+</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2019%20mins-blue)
@@ -82,15 +93,3 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 28/07/2022 00:34:43 UTC
 <!--END_SECTION:waka-->
-<h1 text-alight="center">Welcome</h1>
-</div>
-<div align="center">
-  <h3>Github stats:</h3>
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edavetisyan&theme=dark" alt="Movsisyan" />
-</div>
-<div align="center">
-  <h3>Waka Stats:</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edape&theme=dark&layout=compact"></img>
-</div>
