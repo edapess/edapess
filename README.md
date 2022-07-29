@@ -1,4 +1,5 @@
-<kbd><img src="https://c.tenor.com/76XxFDBUu48AAAAC/frustrated-mad.gif" width="352" height="224" /></kbd>
+<div align="center"><kbd><img src="https://c.tenor.com/76XxFDBUu48AAAAC/frustrated-mad.gif" width="352" height="224"/></kbd></div>
+
 #  Hi,
 -  I’m interested in coding, reading, music, apes
 -  currently working as a React Native developer
@@ -7,7 +8,6 @@
 -  Running Arch Linux with Xmonad on my mobile workstation
 - 📫 You can reach me edmondavetisyanw@gmail.com
 
-</div>
 <div align="center">
   <h3>Github stats:</h3>
   <br>
