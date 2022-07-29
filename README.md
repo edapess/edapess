@@ -6,10 +6,7 @@
 -  Also I'm big fan of **Neovim**, **Tmux**, **Xmonad** and all **Linux** stuff
 -  Running Arch Linux with Xmonad on my mobile workstation
 - 📫 You can reach me edmondavetisyanw@gmail.com
-<!---
-edavetisyan/edavetisyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 </div>
 <div align="center">
   <h3>Github stats:</h3>
