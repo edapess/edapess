@@ -22,6 +22,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edape&theme=dark&layout=compact"></img>
 </div>
 
+### 📊 Statistiques Github 
+
+[![edape's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edavetisyan&&theme=xcode)](https://github.com/edavetisyan)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%2024%20mins-blue)
 
