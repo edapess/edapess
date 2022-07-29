@@ -19,7 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edape&theme=dark&layout=compact"></img>
 </div>
 
-### 📊 Github Stats
 
 [![edape's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edavetisyan&&theme=xcode)](https://github.com/edavetisyan)
 
