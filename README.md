@@ -2,8 +2,8 @@
 #  Hi,
 -  I’m interested in coding, reading, music, apes
 -  currently working as a React Native developer
--  looking to collaborate on React/JS/Electron/React Native project
--  Also I'm big fan of Neovim, Tmux, Xmonad and all Linux stuff
+-  looking to collaborate on **React/JS/Electron/React Native/Dart** project
+-  Also I'm big fan of **Neovim**, **Tmux**, **Xmonad** and all **Linux** stuff
 -  Running Arch Linux with Xmonad on my mobile workstation
 - 📫 You can reach me edmondavetisyanw@gmail.com
 <!---
