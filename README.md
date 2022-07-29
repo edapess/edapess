@@ -24,11 +24,14 @@
 [![edape's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edavetisyan&&theme=xcode)](https://github.com/edavetisyan)
 
 <!--START_SECTION:waka-->
+<div align="center">
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-310-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+</div>
 
 **I'm a Night 🦉** 
 
