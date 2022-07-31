@@ -40,6 +40,10 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ```
 
 
+**Timeline**
 
- Last Updated on 31/07/2022 18:03:15 UTC
+![Chart not found](https://raw.githubusercontent.com/edavetisyan/edavetisyan/main/charts/bar_graph.png) 
+
+
+ Last Updated on 31/07/2022 18:13:47 UTC
 <!--END_SECTION:waka-->
