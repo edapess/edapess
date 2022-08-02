@@ -50,14 +50,15 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edavetisyan&theme=onedark" alt="edape" />
 </div>
 
+&nbsp;
+
 [![edape's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edavetisyan&theme=xcode)](https://github.com/edavetisyan)
 
 <div align="center">
-  <h3>Waka Stats:</h3>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edape&theme=onedark&layout=compact"></img>
 </div>
 
+&nbsp;
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
