@@ -9,8 +9,8 @@
 &nbsp;
 
 <div align="center">
-<a>
-edmondavetisyanw@gmail.com
+<a href ="edmondavetisyanw@gmail.com">
+  Email me
 </a>
 </div>
 
