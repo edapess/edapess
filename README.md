@@ -4,20 +4,18 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=EBCB8B&background=3B4252F4&vCenter=true&width=900&lines=Hi+);I%E2%80%99m+interested+in+coding%2C+reading%2C+music%2C+apes;currently+working+as+a+React+Native+developer;looking+to+collaborate+on+React%2FJS%2FElectron%2FReact+Native%2FDart+project;Also+I'm+big+fan+of+Neovim%2C+Tmux%2C++Xmonad+and+all+Linux+stuff;Running+Arch+Linux+with+Xmonad+on+my+mobile+workstation;You+can+reach+me+by+an+email+below" alt="Typing SVG" /></a>
 </div>
-
-
+&nbsp;
 <div align="center">
-<kbd>
-  <a href ="edmondavetisyanw@gmail.com">
-  Email me
-</a>
-</kbd>
-  </div>
-  &nbsp;
-  <div align="center">
-  <h3> Tools I'm using </h3>
-  </div>
+  <h3>You can contact me via:</h3>
   
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edmondavetisyanw@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/edmondrush)
+
+</div>
+&nbsp;
+  <div align="center">
+  <h3>Tools I'm using:</h3>
+  </div>
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
