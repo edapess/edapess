@@ -1,7 +1,5 @@
 <div align="center"><kbd><img src="https://c.tenor.com/76XxFDBUu48AAAAC/frustrated-mad.gif" width="352" height="224"/></kbd></div>
 
-&nbsp;
-
 <div align="center" style="margin-top: 30px;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=EBCB8B&background=3B4252F4&vCenter=true&width=600&lines=Hi+);I%E2%80%99m+interested+in+coding%2C+reading%2C+music%2C+apes;currently+working+as+a+React+Native+developer;looking+to+collaborate+on+React%2FJS%2FElectron%2FReact+Native%2FDart+project;Also+I'm+big+fan+of+Neovim%2C+Tmux%2C++Xmonad+and+all+Linux+stuff;Running+Arch+Linux+with+Xmonad+on+my+mobile+workstation;You+can+reach+me+by+an+email+below" alt="Typing SVG" /></a>
 </div>
