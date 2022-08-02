@@ -1,5 +1,6 @@
 <div align="center"><kbd><img src="https://c.tenor.com/76XxFDBUu48AAAAC/frustrated-mad.gif" width="352" height="224"/></kbd></div>
 &nbsp;
+
 <div align="center" style="margin-top: 30px;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=EBCB8B&background=3B4252F4&vCenter=true&width=600&lines=Hi+);I%E2%80%99m+interested+in+coding%2C+reading%2C+music%2C+apes;currently+working+as+a+React+Native+developer;looking+to+collaborate+on+React%2FJS%2FElectron%2FReact+Native%2FDart+project;Also+I'm+big+fan+of+Neovim%2C+Tmux%2C++Xmonad+and+all+Linux+stuff;Running+Arch+Linux+with+Xmonad+on+my+mobile+workstation;You+can+reach+me+by+an+email+below" alt="Typing SVG" /></a>
 </div>
@@ -12,7 +13,29 @@
 </a>
 </kbd>
   </div>
+  &nbsp;
+  <div align="center">
+  <h3> Tools I'm using </h3>
+  </div>
   
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+  ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 <div align="center">
   <h3>Github stats:</h3>
   <br>
