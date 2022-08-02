@@ -55,7 +55,7 @@
 <div align="center">
   <h3>Waka Stats:</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edape&theme=dark&layout=compact"></img>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edape&theme=tokyonight&layout=compact"></img>
 </div>
 
 
