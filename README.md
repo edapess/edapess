@@ -12,8 +12,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/edmondrush)
 
 </div>
+
 &nbsp;
-  <div align="center">
+
+<div align="center">
   <h3>Tools I'm using:</h3>
   </div>
   
