@@ -50,12 +50,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edavetisyan&theme=dark" alt="edape" />
 </div>
 
-[![edape's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edavetisyan&&theme=xcode)](https://github.com/edavetisyan)
+[![edape's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edavetisyan&theme=xcode)](https://github.com/edavetisyan)
 
 <div align="center">
   <h3>Waka Stats:</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edape&layout=compact"></img>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edape&theme=dark&layout=compact"></img>
 </div>
 
 
