@@ -7,13 +7,14 @@
 </div>
 
 &nbsp;
-
 <div align="center">
-<a href ="edmondavetisyanw@gmail.com">
+<kbd>
+  <a href ="edmondavetisyanw@gmail.com">
   Email me
 </a>
-</div>
-
+</kbd>
+  </div>
+  
 <div align="center">
   <h3>Github stats:</h3>
   <br>
