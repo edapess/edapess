@@ -44,9 +44,10 @@
   ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 <div align="center">
+
   <h3>Github stats:</h3>
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edavetisyan&theme=dark" alt="Movsisyan" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edavetisyan&theme=dark" alt="edape" />
 </div>
 
 [![edape's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edavetisyan&&theme=xcode)](https://github.com/edavetisyan)
@@ -59,6 +60,7 @@
 
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-360-blue)
