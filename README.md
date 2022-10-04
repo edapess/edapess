@@ -1,4 +1,5 @@
-<div align="center"><kbd><img src="https://c.tenor.com/76XxFDBUu48AAAAC/frustrated-mad.gif" width="352" height="224"/></kbd></div>
+(https://user-images.githubusercontent.com/47182987/193909539-c95a6a7e-19ae-4af7-8f31-f5558eb4fe96.png)
+
 &nbsp;
 
 <div align="center">
