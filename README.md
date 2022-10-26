@@ -56,15 +56,15 @@
 
   <h3>Github stats:</h3>
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edapess&theme=dark" alt="edape" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edapess&theme=dark" alt="edapess" />
 </div>
 
 &nbsp;
 
-[![edape's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edapess&theme=xcode)](https://github.com/edapess)
+[![edapess's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edapess&theme=xcode)](https://github.com/edapess)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edape&theme=dark&layout=compact"></img>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edapess&theme=dark&layout=compact"></img>
 </div>
 
 &nbsp;
