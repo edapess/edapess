@@ -71,15 +71,17 @@
 &nbsp;
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C403%20hrs%2054%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 92.2 kB Used in GitHub's Storage 
  > 
-> 🏆 830 Contributions in the Year 2023
+> 🏆 832 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -87,6 +89,42 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6877 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌆 Daytime                22395 commits       █████████████░░░░░░░░░░░░   53.94 % 
+🌃 Evening                11937 commits       ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+🌙 Night                  312 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   5839 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Tuesday                  9865 commits        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Wednesday                9670 commits        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Thursday                 8175 commits        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Friday                   6967 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Saturday                 445 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Sunday                   560 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               44 hrs 29 mins      █████████████████████████   99.79 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  44 hrs 35 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      44 hrs 35 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -100,5 +138,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2023 00:41:46 UTC
+ Last Updated on 05/12/2023 00:43:01 UTC
 <!--END_SECTION:waka-->
