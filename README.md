@@ -71,17 +71,15 @@
 &nbsp;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C407%20hrs%2013%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 92.2 kB Used in GitHub's Storage 
  > 
-> 🏆 833 Contributions in the Year 2023
+> 🏆 834 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -89,41 +87,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6881 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-🌆 Daytime                22464 commits       █████████████░░░░░░░░░░░░   53.91 % 
-🌃 Evening                12000 commits       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-🌙 Night                  322 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   5858 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Tuesday                  9890 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-Wednesday                9690 commits        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Thursday                 8197 commits        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Friday                   7002 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Saturday                 445 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Sunday                   585 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               38 hrs 13 mins      █████████████████████████   100.00 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  38 hrs 13 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      38 hrs 13 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -137,5 +100,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 00:42:37 UTC
+ Last Updated on 07/12/2023 00:42:20 UTC
 <!--END_SECTION:waka-->
