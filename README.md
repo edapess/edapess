@@ -56,8 +56,4 @@
 
 [![edapess's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edapess&theme=xcode)](https://github.com/edapess)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edapess&theme=dark&layout=compact"></img>
-</div>
-
 &nbsp;
