@@ -1,10 +1,4 @@
 <div align="center"><kbd><img src="https://user-images.githubusercontent.com/47182987/204107754-a9aaa006-d979-4808-90c3-f87b68740812.png" width="480" height="270"/></kbd></div>
-
-&nbsp;
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=EBCB8B&background=3B4252F4&vCenter=true&width=900&lines=Hi+);I%E2%80%99m+interested+in+coding%2C+reading%2C+music%2C+apes;currently+working+as+a+React+Native+developer;looking+to+collaborate+on+React%2FJS%2FElectron%2FReact+Native%2FDart+project;Also+I'm+big+fan+of+Neovim%2C+Tmux%2C++Xmonad+and+all+Linux+stuff;Running+Arch+Linux+with+Xmonad,+Qtile+and+KDE+on+my+mobile+workstation;You+can+reach+me+by+an+email+below" alt="Typing SVG" /></a>
-</div>
 &nbsp;
 <div align="center">
   <h3>You can contact me via:</h3>
